@@ -1,9 +1,10 @@
 const { Model, DataTypes } = require('sequelize');
 
 const sequelize = require('../config/connection.js');
+//create our Tag model 
 
 class Tag extends Model {}
-
+//create fields/columns for Tag model. 
 Tag.init(
   {
     id: {
@@ -21,8 +22,8 @@ Tag.init(
     timestamps: false,
     freezeTableName: true,
     underscored: true,
-    modelName: 'tag',
+    modelName: 'tag',//lower case rule again 
   }
 );
-
+//exports Tag
 module.exports = Tag;
