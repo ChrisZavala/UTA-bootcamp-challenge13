@@ -69,7 +69,6 @@ router.post('/', async (req, res) => {
 
 // update product
 router.put('/:id', (req, res) => {
-  // update product data  
   
   Product.update(req.body, {
     where: {
@@ -77,7 +76,7 @@ router.put('/:id', (req, res) => {
     },
   })
     .then(async () => {
-     
+
       if (req.body.tagIds && req.body.tagIds.length) {
        
         const productTags = await ProductTag.findAll({
@@ -117,6 +116,7 @@ router.put('/:id', (req, res) => {
     });
 });
 
+//You gotta love .destroy!
 router.delete('/:id', async (req, res) => {
   // delete one product by its `id` value
   try {

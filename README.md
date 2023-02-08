@@ -82,8 +82,15 @@ SOFTWARE.
  The user can test the functicallity of this application for their use. Please report any issues or bugs to make this an even better user experience.  
 
   ## Video Link inserted here:
+  [Click to see Part 1 The E-Commerce Back End Application](https://drive.google.com/file/d/1ttJnXfQ5BBf5DLIwTk8mQnFUZOn-NpqX/view)
+  [Click to see Part 1 The E-Commerce Back End Application](https://drive.google.com/file/d/1kbKN4QIOV78UShU5tg48sDBhbqmocpZi/view)
+  [Click to see Part 1 The E-Commerce Back End Application](https://drive.google.com/file/d/1qiFV97g3oEmBEyU8tjspubvMMpMSbsYI/view)
+  [Click to see Part 1 The E-Commerce Back End Application](https://drive.google.com/file/d/1I-s8Q5Wa1Ds_zAj8Mj5F-UFg8Y_hYh3t/view)
  
   ## Screenshots:
+![Alt text](./assets/images/Recording%202023-02-07%20at%2020.44.21.gif)
+![Alt text](./assets/images/Recording%202023-02-07%20at%2020.47.01.gif)
+![Alt text](./assets/images/Recording%202023-02-07%20at%2020.49.45.gif)
 
 
 
